@@ -1,0 +1,8 @@
+{
+  "body": "{\"userName\":\"User1\",\"content\":\"new world\",\"title\":\"new title\",\"snidbitId\":\"1bYuMgfkQEcbz9JiMNk6P4gn7uU\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
